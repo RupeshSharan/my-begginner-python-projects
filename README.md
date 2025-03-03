@@ -1,2 +1,2 @@
-# my-begginner-python-projects
+# my-python-projects
 This is an archive of all my projects till date
